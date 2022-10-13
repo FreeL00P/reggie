@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42cb9f39-28ba-4f30-82e8-33359398f6d0" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FfF0LPlgLyx2IEjCIIgou9cawc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/reggie_take_out",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Facet",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.31530493",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "spring.configuration.checksum": "31ee954601a2ac7573b0782bc2eec0b0"
+  }
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\reggie_take_out\src\main\java\com\itheima\reggie\dto" />
+      <recent name="D:\reggie_take_out\src\main\java\com\itheima\reggie\entity" />
+      <recent name="D:\reggie_take_out\src\main\java\com\itheima\reggie\utils" />
+      <recent name="D:\reggie_take_out\src\main\resources\backend\page\demo" />
+      <recent name="D:\reggie_take_out\src\main\java\com\itheima\reggie\common" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\reggie_take_out" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ReggieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="reggie_take_out" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.reggie.ReggieApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.reggie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ReggieApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="42cb9f39-28ba-4f30-82e8-33359398f6d0" name="变更" comment="" />
+      <created>1664875014962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664875014962</updated>
+      <workItem from="1664875017065" duration="15518000" />
+      <workItem from="1664977669391" duration="5163000" />
+      <workItem from="1664984660134" duration="326000" />
+      <workItem from="1664986971998" duration="89000" />
+      <workItem from="1665021739015" duration="8667000" />
+      <workItem from="1665050534783" duration="10668000" />
+      <workItem from="1665116183490" duration="116000" />
+      <workItem from="1665122352511" duration="5092000" />
+      <workItem from="1665194652341" duration="23660000" />
+      <workItem from="1665278600062" duration="5517000" />
+      <workItem from="1665313384101" duration="9408000" />
+      <workItem from="1665366095957" duration="8602000" />
+      <workItem from="1665399125315" duration="13405000" />
+      <workItem from="1665467261539" duration="9251000" />
+      <workItem from="1665483555079" duration="8083000" />
+      <workItem from="1665554517612" duration="11424000" />
+      <workItem from="1665576430145" duration="6755000" />
+      <workItem from="1665622873284" duration="154000" />
+      <workItem from="1665623057877" duration="326000" />
+      <workItem from="1665623421729" duration="56000" />
+      <workItem from="1665623511971" duration="71000" />
+      <workItem from="1665623618691" duration="1322000" />
+      <workItem from="1665624985103" duration="267000" />
+      <workItem from="1665625300174" duration="118000" />
+      <workItem from="1665625456342" duration="521000" />
+      <workItem from="1665626022008" duration="6689000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
